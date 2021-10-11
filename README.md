@@ -1,5 +1,11 @@
 # JS-Asian-Kitchen-s-Menu
 This project was made with **HTML**, **CSS** and **Javascript**.
-It shows the menu according to the chosen category.
+It shows the proper menu according to the chosen category.
 *****
-![](images/video1.mp4) 
+![](https://github.com/yakupkalayci/JS-Asian-Kitchen-s-Menu/blob/main/images/1.PNG)
+***
+![](https://github.com/yakupkalayci/JS-Asian-Kitchen-s-Menu/blob/main/images/2.PNG)
+***
+![](https://github.com/yakupkalayci/JS-Asian-Kitchen-s-Menu/blob/main/images/3.PNG)
+***
+![](https://github.com/yakupkalayci/JS-Asian-Kitchen-s-Menu/blob/main/images/4.PNG)
